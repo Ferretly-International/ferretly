@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Repos
+## 🔭 Repos
 
 [External API Samples](https://github.com/ferretly/External-API-Samples) - here you'll find some samples and documentation for integrating with the Ferretly API
 
